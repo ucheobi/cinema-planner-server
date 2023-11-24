@@ -3,7 +3,7 @@ cinema server for managing cinema booking client.
 
 REQUIREMENTS
 ===============
-1. Create a UI that aloows clients to:
+1. Create a UI that allows clients to:
     a. View list of available movies and its details
     b. Choose from a list of seats.
     c. Book and manage their ticket.
